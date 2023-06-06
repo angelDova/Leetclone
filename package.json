@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@codemirror/lang-javascript": "^6.1.9",
     "@types/node": "20.2.5",
     "@types/react": "18.2.8",
     "@types/react-dom": "18.2.4",
+    "@uiw/codemirror-theme-vscode": "^4.21.1",
+    "@uiw/react-codemirror": "^4.21.1",
+    "assert": "^2.0.0",
     "autoprefixer": "10.4.14",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
